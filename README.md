@@ -1,0 +1,1 @@
+Hello! This project is available in the [wiki](https://github.com/amiaopensource/ffmpeg/wiki)!
